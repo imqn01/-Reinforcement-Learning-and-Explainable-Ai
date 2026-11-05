@@ -7,3 +7,11 @@ How to get into venv
    - source venv/bin/activate
 3. Clean up if failed:
     - rm -rf venv
+
+# Installs 
+* pip install ipykernel
+* pip install matplotlib
+* pip install imageio
+* !pip install gymnasium
+* pip install imageio 
+* pip install gymnasium
