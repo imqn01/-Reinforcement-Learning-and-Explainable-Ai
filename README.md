@@ -15,3 +15,6 @@ How to get into venv
 * !pip install gymnasium
 * pip install imageio 
 * pip install gymnasium
+* pip install pandas
+* pip install shap
+* pip install torch
